@@ -1,0 +1,28 @@
+C:\Users\stito\source\repos\TestWpf\TestWpf\bin\Debug\Arx Xml Editor.exe.config
+C:\Users\stito\source\repos\TestWpf\TestWpf\bin\Debug\Arx Xml Editor.exe
+C:\Users\stito\source\repos\TestWpf\TestWpf\bin\Debug\Arx Xml Editor.pdb
+C:\Users\stito\source\repos\TestWpf\TestWpf\bin\Debug\ControlzEx.dll
+C:\Users\stito\source\repos\TestWpf\TestWpf\bin\Debug\MahApps.Metro.dll
+C:\Users\stito\source\repos\TestWpf\TestWpf\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\stito\source\repos\TestWpf\TestWpf\bin\Debug\ControlzEx.pdb
+C:\Users\stito\source\repos\TestWpf\TestWpf\bin\Debug\MahApps.Metro.pdb
+C:\Users\stito\source\repos\TestWpf\TestWpf\bin\Debug\MahApps.Metro.xml
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\MainWindow.g.cs
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\App.g.cs
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\Arx Xml Editor_MarkupCompile.cache
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\Arx Xml Editor_MarkupCompile.lref
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\App.baml
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\MainWindow.baml
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\Arx Xml Editor.g.resources
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\ArxXmlEditor.Properties.Resources.resources
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\ArxXmlEditor.csproj.GenerateResource.cache
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\ArxXmlEditor.csproj.CoreCompileInputs.cache
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\ArxXmlEditor.csproj.CopyComplete
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\Arx Xml Editor.exe
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\Arx Xml Editor.pdb
+C:\Users\stito\source\repos\TestWpf\TestWpf\bin\Debug\Arx Xml Editor.exe.manifest
+C:\Users\stito\source\repos\TestWpf\TestWpf\bin\Debug\Arx Xml Editor.application
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\ArxXmlEditor.csprojAssemblyReference.cache
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\Arx Xml Editor.TrustInfo.xml
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\Arx Xml Editor.exe.manifest
+C:\Users\stito\source\repos\TestWpf\TestWpf\obj\Debug\Arx Xml Editor.application
